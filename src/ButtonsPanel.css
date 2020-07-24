@@ -1,0 +1,14 @@
+button {
+    margin: 10px 0 10px 10px;
+    padding: 10px;
+    background-color: cornflowerblue;
+    color: cornsilk;
+    border: 1px solid rgb(29, 75, 161);
+}
+
+button:hover {
+    background-color: rgb(29, 75, 161);
+    border: 1px solid blue;
+    cursor: pointer;
+    outline: 0;
+}
